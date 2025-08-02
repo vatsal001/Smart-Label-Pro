@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Home",
+    "link": "/",
+    "submenu": [
+      {
+        "list": [
+          {
+            "text": "Home 1",
+            "link": "/"
+          }
+        ]
+      }
+    ],
+    "mega_menu": false
+  },
+  {
+    "text": "About",
+    "link": "/about",
+    "mega_menu": false
+  },
+  {
+    "text": "All Products",
+    "link": "/",
+    "submenu": [
+      {
+        "list": [
+          {
+            "text": "Labels & Stickers",
+            "link": "/collection/bedroom"
+          },
+          {
+            "text": "Marketing Materials",
+            "link": "/collection/dining"
+          },
+          {
+            "text": "Banners & Signs",
+            "link": "/collection/living"
+          }
+        ]
+      }
+    ],
+    "mega_menu": false
+  },
+
+  {
+    "text": "Contact",
+    "link": "/contact",
+    "mega_menu": false
+  }
+]
